@@ -30,13 +30,9 @@ However, we are preparing a dark and twisted storyline underneath, involving a t
 - Tab — fly with jetpack
 - Mouse Scroll — switch weapons
 - V — equip frying pan
-- E - heal with pieróg
+- E — heal with pieróg
 
 ## How to setup:
 1. Clone the repository
 2. Open in Godot Engine 4.x
 3. Press F5 to run
-
-This project has helped me deepen my understanding of Godot’s physics engine, develop custom movement systems, and design modular, reusable scenes.
-It also taught me how to debug complex interactions between nodes and signals efficiently.
-
