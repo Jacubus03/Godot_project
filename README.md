@@ -36,3 +36,8 @@ However, we are preparing a dark and twisted storyline underneath, involving a t
 1. Clone the repository
 2. Open in Godot Engine 4.x
 3. Press F5 to run
+
+## What I’m Learning:
+1. Development of custom movement system
+2. Designing and implementing enemy AI
+3. Teamworking in game project with version control (Git)
